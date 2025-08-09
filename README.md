@@ -13,12 +13,12 @@ Library         |  User Profile Page
 1. Cloning the repository:
 
 ```
-$ git clone https://github.com/ahmedgulabkhan/youtube_clone_flutter.git
+$ git clone https://github.com/Tson28/YouTube-clone.git
 ```
 
 2. Open the project:
 
-`$ cd youtube_clone_flutter`
+`$ cd youtube_clone`
 
 3. Now run the app on your connected device (using terminal):
 
