@@ -1,8 +1,4 @@
-# youtube_clone_flutter 
-
-## About
-A clone of the YouTube app that I created using Flutter, took reference from [this](https://github.com/KalleHallden/YouTubeClone/tree/master/youtubeclone) version of YouTube clone.
-
+# youtube_clone
 ## Snapshots
 
 Home               |  Explore               | Notifications               
