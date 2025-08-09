@@ -1,3 +1,5 @@
+#author Nguyễn Thái Sơn
+
 # youtube_clone
 ## Snapshots
 

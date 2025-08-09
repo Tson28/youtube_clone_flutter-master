@@ -1,3 +1,5 @@
+#author Nguyễn Thái Sơn
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.youtube_clone_flutter">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that

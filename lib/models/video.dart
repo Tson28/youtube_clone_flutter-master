@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:youtube_clone_flutter/models/user.dart';
 
+#author Nguyễn Thái Sơn
+
 class Video {
   AssetImage thumbnail;
   int viewCount;

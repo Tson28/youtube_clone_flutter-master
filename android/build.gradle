@@ -1,3 +1,5 @@
+#author Nguyễn Thái Sơn
+
 buildscript {
     ext.kotlin_version = '1.3.50'
     repositories {

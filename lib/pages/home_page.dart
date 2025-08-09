@@ -1,3 +1,5 @@
+#author Nguyễn Thái Sơn
+
 import 'package:flutter/material.dart';
 import 'package:youtube_clone_flutter/models/user.dart';
 import 'package:youtube_clone_flutter/pages/user_profile_page.dart';

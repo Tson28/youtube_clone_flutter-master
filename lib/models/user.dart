@@ -1,3 +1,5 @@
+#author Nguyễn Thái Sơn
+
 import 'package:flutter/material.dart';
 
 class User {
