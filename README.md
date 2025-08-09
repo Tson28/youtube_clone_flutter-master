@@ -1,5 +1,4 @@
-# youtube_clone_flutter ![GitHub stars](https://img.shields.io/github/stars/ahmedgulabkhan/youtube_clone_flutter?style=social) ![GitHub forks](https://img.shields.io/github/forks/ahmedgulabkhan/youtube_clone_flutter?style=social) 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ahmedgulabkhan/youtube_clone_flutter) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ahmedgulabkhan/youtube_clone_flutter) ![GitHub issues](https://img.shields.io/github/issues-raw/ahmedgulabkhan/youtube_clone_flutter) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ahmedgulabkhan/youtube_clone_flutter) 
+# youtube_clone_flutter 
 
 ## About
 A clone of the YouTube app that I created using Flutter, took reference from [this](https://github.com/KalleHallden/YouTubeClone/tree/master/youtubeclone) version of YouTube clone.
@@ -32,7 +31,7 @@ $ git clone https://github.com/ahmedgulabkhan/youtube_clone_flutter.git
 ## LICENSE
 MIT License
 
-Copyright (c) 2020 Ahmed Gulab Khan
+Copyright (c) 2025 Tson28
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
